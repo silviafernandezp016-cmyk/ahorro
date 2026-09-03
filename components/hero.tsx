@@ -2,10 +2,10 @@ import { Button } from "@/components/ui/button"
 import { Check, Search, Star, TrendingDown } from "lucide-react"
 
 const priceRows = [
-  { store: "TechMarket", price: "$275.000", best: false },
-  { store: "MegaShop", price: "$239.500", best: false },
-  { store: "ElectroPlus", price: "$189.990", best: true },
-  { store: "OfertaZone", price: "$298.000", best: false },
+  { store: "TechMarket", price: "$259.900", best: false },
+  { store: "MegaShop", price: "$219.500", best: false },
+  { store: "ElectroPlus", price: "$174.990", best: true },
+  { store: "OfertaZone", price: "$285.000", best: false },
 ]
 
 export function Hero() {
@@ -117,7 +117,7 @@ export function Hero() {
                 <TrendingDown className="h-4 w-4 text-accent" />
                 Ahorras hasta
               </span>
-              <span className="font-mono text-lg font-bold text-accent">$108.010</span>
+              <span className="font-mono text-lg font-bold text-accent">$110.010</span>
             </div>
           </div>
         </div>
