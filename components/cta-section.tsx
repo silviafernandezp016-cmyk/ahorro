@@ -4,7 +4,7 @@ import { Search } from "lucide-react"
 const stats = [
   { value: "800+", label: "Tiendas analizadas" },
   { value: "12M", label: "Productos comparados" },
-  { value: "$380.000", label: "Ahorro medio al año" },
+  { value: "$420.000", label: "Ahorro medio al año" },
 ]
 
 export function CtaSection() {
