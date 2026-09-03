@@ -4,11 +4,11 @@ import { Star, BadgeCheck, ShieldCheck, TrendingDown } from "lucide-react"
 const testimonials = [
   {
     quote:
-      "Iba a comprar unos auriculares a $199.000 y Preciva me los encontró a $149.000 en otra tienda. $50.000 que me ahorré en dos clics.",
+      "Iba a comprar unos auriculares a $189.000 y Preciva me los encontró a $129.000 en otra tienda. $60.000 que me ahorré en dos clics.",
     name: "Lucía Fernández",
     role: "Madrid",
     avatar: "/avatars/lucia.png",
-    saved: "Ahorró $50.000",
+    saved: "Ahorró $60.000",
   },
   {
     quote:
@@ -16,7 +16,7 @@ const testimonials = [
     name: "Marcos Ruiz",
     role: "Valencia",
     avatar: "/avatars/marcos.png",
-    saved: "Ahorró $78.000",
+    saved: "Ahorró $92.000",
   },
   {
     quote:
@@ -24,14 +24,14 @@ const testimonials = [
     name: "Carmen Ortega",
     role: "Sevilla",
     avatar: "/avatars/carmen.png",
-    saved: "Ahorró $312.000 al año",
+    saved: "Ahorró $345.000 al año",
   },
 ]
 
 const trust = [
   {
     icon: TrendingDown,
-    value: "$340.000",
+    value: "$380.000",
     label: "Ahorro medio por usuario cada año",
   },
   {
